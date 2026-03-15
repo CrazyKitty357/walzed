@@ -1,4 +1,5 @@
-a project that generates a [zed](https://zed.dev) theme based on your current wal theme.
+# Walzed
+"Wall" "Zed" is a project that generates a [zed](https://zed.dev) theme based on your current wal theme.
 
 ---
 backstory: I was in the process of changing my linux theme and I wanted to change my theme in zed to match, so I go to this [project I used in the past](https://github.com/dwoodv2/pywal-theme-zed) and I found out it's been deleted. Thankfully I had a theme that used this in the past so I asked chatgpt to make a thing based on the theme.json, the thing didn't work, so I bug fixed the thing and here we are.
